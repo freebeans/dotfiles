@@ -20,5 +20,8 @@
     "sub"           : false,
     "trailing"      : true,
     "undef"         : true,
-    "white"         : false
+    "white"         : false,
+
+    "laxcomma"      : true,
+    "loopfunc"      : true
 }
